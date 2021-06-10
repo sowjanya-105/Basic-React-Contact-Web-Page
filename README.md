@@ -1,2 +1,3 @@
 # Basic-React-Contact-Web-Page
-Created with CodeSandbox
+
+This is a basic contact web page made using React with the help of Ms. Angela Yu's Web Development course.
